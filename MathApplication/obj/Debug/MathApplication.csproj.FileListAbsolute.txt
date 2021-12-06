@@ -1,0 +1,7 @@
+C:\Users\Jimit\source\repos\MathApplication\MathApplication\bin\Debug\MathApplication.exe.config
+C:\Users\Jimit\source\repos\MathApplication\MathApplication\bin\Debug\MathApplication.exe
+C:\Users\Jimit\source\repos\MathApplication\MathApplication\bin\Debug\MathApplication.pdb
+C:\Users\Jimit\source\repos\MathApplication\MathApplication\obj\Debug\MathApplication.csprojAssemblyReference.cache
+C:\Users\Jimit\source\repos\MathApplication\MathApplication\obj\Debug\MathApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jimit\source\repos\MathApplication\MathApplication\obj\Debug\MathApplication.exe
+C:\Users\Jimit\source\repos\MathApplication\MathApplication\obj\Debug\MathApplication.pdb
